@@ -1,3 +1,1 @@
-### Howdy, I'm Ryan.
-
-I live in sunny Los Angeles, California. I currently work as a front end engineer at [Say](https://saytechnologies.com).
+![](https://upload.wikimedia.org/wikipedia/commons/b/b8/Taco_Bell_Night.JPG)
